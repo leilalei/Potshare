@@ -1,4 +1,4 @@
-Team02 Gatherly
+Gatherly
 =======================
 
 A mobile application designed for seamless event management, recipe sharing, and ingredient assignment. Built with **Swift** and **Firebase**, this app is tailored to enhance group gatherings by organizing recipes, assigning tasks, and managing event-related details efficiently.
@@ -51,7 +51,7 @@ A mobile application designed for seamless event management, recipe sharing, and
     - **FirebaseFirestore:** Leverages the Firestore service for flexible, scalable, and real-time document storage.
 
 * * * * *
-## Known Issues & Reminders for TA
+## Known Issues & Reminders
 1. **Event Creation and Invitations:**  
    After creating a new event, **please remember to invite yourself** to the event. This step ensures proper data access within the app for demonstration and testing purposes.
 
@@ -86,7 +86,7 @@ A mobile application designed for seamless event management, recipe sharing, and
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/ruiminggu/67443-Team02-EventManagement.git
+    git clone https://github.com/leilalei/Potshare.git
 
 2.  Open the project in **Xcode**:
 
@@ -103,7 +103,7 @@ A mobile application designed for seamless event management, recipe sharing, and
 --------------------
 
 ```bash
-67443-Team02-EventManagement/
+Potshare/
 ├── Team02/
 │   ├── Models/            # Swift model files (e.g., Recipe, Event, Ingredient)
 │   ├── Views/             # SwiftUI views for UI components
@@ -137,20 +137,14 @@ To run unit tests:
 
 This project was made possible through the collaborative effort of our amazing team:
 
--   **Ruiming Gu** (GitHub Profile: [ruiminggu](https://github.com/ruiminggu))
+-   **Ruiming Gu** 
 -   **Leila Lei**
 -   **Xinyi(Erin) Chen**
 
-Thank you for your hard work, creativity, and dedication to making this project a success!
 
-This README was initially drafted and later refined with the assistance of ChatGPT.
-* * * * *
 
 📧 Contact
 ----------
 
 If you have any questions or suggestions, feel free to reach out to the repository owner:
 
-**Ruiming Gu**
-
--   [GitHub Profile](https://github.com/ruiminggu)
